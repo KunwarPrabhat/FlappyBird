@@ -1,0 +1,6 @@
+*.aspx linguist-vendored
+*.config linguist-vendored
+*.cshtml linguist-vendored
+*.js linguist-vendored
+*.html linguist-vendored
+*.css linguist-vendored
